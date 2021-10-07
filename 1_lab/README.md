@@ -21,5 +21,5 @@ xi : pirmoje sekoje esančių kodonų/dikodonų dažnis, yi : antroje sekoje esa
 
 ### Kodonų 
 
-```viruses/results/codons_rate_distances.txt
+```python: viruses/results/codons_rate_distances.txt
 
