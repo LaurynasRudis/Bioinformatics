@@ -1,8 +1,6 @@
 # Ataskaita
 ## Pirmas laboratorinis darbas
 
-Parengė Laurynas Rudis, Programų Sistemos 4 kursas, 5 grupė
-term
+### 1. Koduojančių sekų radimas
 
-term
-: definition
+Koduojančios sekos rastos 	\sqrt{k}
