@@ -3,4 +3,4 @@
 
 ### 1. Koduojančių sekų radimas
 
-Koduojančios sekos rastos 	\sqrt{k}
+Koduojančios sekos rastos $\sqrt{k}$
