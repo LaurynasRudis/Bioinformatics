@@ -17,7 +17,7 @@
   4. herpesvirus
 ### 1. Koduojančių sekų radimas
 
-Koduojančios sekos rastos iš fasta failuose nurodytų tiesioginių DNR sekų. Iš tiesioginės sekos buvo sudaryta jai koplementari atvirkštinė seka. Sekos tikrinimos po 3 simbolius iš eilės. Suradus start kodoną, toliau buvo ieškomas stop kodonas. Jei rastos sekos ilgis ne trumpesnis nei 100 kodonų, ta seka priskiriama baltymą koduojančioms sekoms. Sekų paieška atliekama 6 skaitymo rėmeliuose, 3 tiesioginėje sekoje (+1, +2 ,+3) ir 3 atvirkštinėje seko (-1, -2, -3).
+Koduojančios sekos rastos iš fasta failuose nurodytų tiesioginių DNR sekų. Iš tiesioginės sekos buvo sudaryta jai koplementari atvirkštinė seka. Sekos tikrinimos po 3 simbolius iš eilės. Suradus start kodoną, toliau buvo ieškomas stop kodonas. Jei rastos sekos ilgis ne trumpesnis nei 100 kodonų, ta seka priskiriama baltymą koduojančioms sekoms. Sekų paieška atliekama 6 skaitymo rėmeliuose, 3 tiesioginėje sekoje (+1, +2 ,+3) ir 3 atvirkštinėje sekoje (-1, -2, -3).
 
 ### 2. Kodonų ir dikodonų dažnių radimas
 
