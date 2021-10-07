@@ -71,6 +71,8 @@ herpesvirus        0.027597   0.01847  0.024258  0.037906  0.024107  0.015396  0
 Atsižvelgiant į atstumų matricos meždius, galima pastebėti, jog kodonų ir dikodonų dažniai tarp žinduolių virusų ir bakterijų virusų dažniausiai skiriasi. Yra matomi variantai, kai žinduolio virusas (U18337.1 Variola virus Congo-1965) patenka į bakterijų virusų klasteri, o bakterijų virusas (KM389305.1 UNVERIFIED: Escherichia phage CBA6) patenka į žinduolių. Dikodonų ir kodonų dažnių medžiai yra pakankamai panašus. Abiejuose medžiuose labiausiai išsiskyrė NC_028697.1 Streptococcus phage A25 virusas, kuris sudarė savo atskirą šaką nuo likusių virusų.
 
 ### Dažniausiai pasitaikę kodonai ir dikodonai
-![image](https://user-images.githubusercontent.com/47796168/136314595-5bb9dd07-d91f-4add-b513-9942d044b0b9.png)
+
+![image](https://user-images.githubusercontent.com/47796168/136314654-ff7b5258-bb1e-43d3-bc55-c644518926df.png)
+
 
 
