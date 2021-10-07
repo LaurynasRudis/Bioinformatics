@@ -3,6 +3,7 @@
 ## Įvadas
 
 Šiame laboratoriniame darbe analizuojame 8 skirtingas virusų DNR sekas. Sekos gautos FASTA formatu.
+
 **Bakterijų virusai**:
   1. Lactococcus_phage
   2. KM389305.1 UNVERIFIED: Escherichia phage CBA6 clone
