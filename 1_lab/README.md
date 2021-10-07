@@ -72,7 +72,16 @@ Atsižvelgiant į atstumų matricos meždius, galima pastebėti, jog kodonų ir 
 
 ### Dažniausiai pasitaikę kodonai ir dikodonai
 
-![image](https://user-images.githubusercontent.com/47796168/136314712-08e6b086-3700-4ebf-872b-2c529cbb5465.png)
+#### Kodonai
+
+![image](https://user-images.githubusercontent.com/47796168/136315005-5675fa03-6a67-4315-bc69-758789f2e833.png)
+
+#### Dikodonai
+
+![image](https://user-images.githubusercontent.com/47796168/136315031-96c9c8e6-04cd-4ebf-8aa8-34e25c5488a2.png)
+
+
+
 
 
 
