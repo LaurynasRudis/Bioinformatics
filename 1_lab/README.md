@@ -3,7 +3,16 @@
 ## Įvadas
 
 Šiame laboratoriniame darbe analizuojame 8 skirtingas virusų DNR sekas. Sekos gautos FASTA formatu.
-
+**Bakterijų virusai**:
+  1. Lactococcus_phage
+  2. KM389305.1 UNVERIFIED: Escherichia phage CBA6 clone
+  3. NC_028697.1 Streptococcus phage A25
+  4. KC821626.1 Cellulophaga phage phi39:1
+**Žinduolių virusai**:
+  1. coronavirus
+  2. adenovirus
+  3. U18337.1 Variola virus Congo-1965
+  4. herpesvirus
 ### 1. Koduojančių sekų radimas
 
 Koduojančios sekos rastos iš fasta failuose nurodytų tiesioginių DNR sekų. Iš tiesioginės sekos buvo sudaryta jai koplementari atvirkštinė seka. Sekos tikrinimos po 3 simbolius iš eilės. Suradus start kodoną, toliau buvo ieškomas stop kodonas. Jei rastos sekos ilgis ne trumpesnis nei 100 kodonų, ta seka priskiriama baltymą koduojančioms sekoms. Sekų paieška atliekama 6 skaitymo rėmeliuose, 3 tiesioginėje sekoje (+1, +2 ,+3) ir 3 atvirkštinėje seko (-1, -2, -3).
