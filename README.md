@@ -1,2 +1,2 @@
 # Bioinformatics
-Repository for bioinformatics tasks
+Repisitorija skirta bioinformatikos užduotims.
