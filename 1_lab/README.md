@@ -8,6 +8,7 @@
   2. KM389305.1 UNVERIFIED: Escherichia phage CBA6 clone
   3. NC_028697.1 Streptococcus phage A25
   4. KC821626.1 Cellulophaga phage phi39:1
+
 **Žinduolių virusai**:
   1. coronavirus
   2. adenovirus
