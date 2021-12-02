@@ -23,13 +23,15 @@ ASCII simbolis būtų , (kablelis).
     b) Analizuotų C/G nukleotidų pasiskirstymą read’uose. Pateikite grafiką, kurio y ašyje būtų read’ų skaičius, x ašyje - C/G nukletidų dalis read’o sekoje (100 proc. reikštų, kad visi simboliai read’o sekoje yra G ir C). Parašykite, koks „stambių“ pikų skaičius yra gautame grafike.
 
     ### G/C nukleotidų dažnis read'uose
-        ![image](https://github.com/LaurynasRudis/Bioinformatics/blob/main/3_lab/gc_count_graph.jpg?raw=true)
-
+    ![image](https://github.com/LaurynasRudis/Bioinformatics/blob/main/3_lab/gc_count_graph.jpg?raw=true)
+    
     Gauti 3 stambus pikai.
 
     c) Paimtų po 5 kiekvieno piko viršūnės sekų ir atliktų blast’o paieškas. Naudokite nr/nt duombazę, paiešką apribokite taip, kad ieškotų atitikmenų tik bakterinės sekose (organizmas “bacteria”). Analizei naudokite tik patį pirmą atitikmenį. Pateikite lentelę, kurioje būtų read’o id ir rasto mikroorganizmo rūšis.
 
     Programa randa kiekvieno piko 5 sekas ir buvo atliekama online BLAST paieška. Žemiau yra pateikta lentelė su sekų ID ir pirmas paieškos rezultatas.
+    
+    ![image](https://user-images.githubusercontent.com/47796168/144335749-14a3c632-d57e-49de-b65a-2d8df6a763fc.png)
 
 
 
