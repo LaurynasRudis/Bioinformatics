@@ -1,2 +1,2 @@
 # Bioinformatics
-Repisitorija skirta bioinformatikos užduotims.
+Repositorija skirta bioinformatikos užduotims.
